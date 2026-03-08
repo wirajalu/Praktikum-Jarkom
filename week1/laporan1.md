@@ -26,12 +26,12 @@ Jika belum install dapat di download pada link berikut **[www.python.org](https:
 ## C. Hasil dan Pembahasan
 ### 1. Tampilan Awal Wireshark
 Berikut adalah tampilan awal Wireshark sebelum membuka file trace. Terlihat daftar interface jaringan yang tersedia.  
-![Tampilan Awal Wireshark](../assets/image/week1.png)  
+![Tampilan Awal Wireshark](assets/week1.png)  
 *Gambar 1. Tampilan awal Wireshark*
 
 ### 2. Verifikasi Python
 Berikut adalah tangkapan layar Command Prompt/Terminal saat mengecek versi Python.  
-![Tampilan Verifikasi Python](../assets/image/pythonversion.png)  
+![Tampilan Verifikasi Python](assets/pythonversion.png)  
 *Gambar 2. Verifikasi Python di cmd*
 
 ---
