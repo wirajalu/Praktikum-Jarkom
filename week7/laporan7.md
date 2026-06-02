@@ -327,4 +327,5 @@ Client terhubung ke server, mengirim pesan, dan menerima response.
 | **Use Case** | DNS, Streaming, VoIP, Gaming | Web, Email, File Transfer |
 | **Nilai Utama** | **Socket programming memberikan kontrol penuh terhadap komunikasi jaringan di application layer** | **Socket programming memberikan kontrol penuh terhadap komunikasi jaringan di application layer** |
 
+
 ---
